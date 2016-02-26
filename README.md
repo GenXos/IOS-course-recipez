@@ -1,2 +1,2 @@
-# IOS-course-recipez
-IOS-course-recipez
+# recipez
+recipez
